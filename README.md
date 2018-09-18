@@ -9,6 +9,7 @@ When the script is run for the first time a database will be created in SQLite w
 - Users have to be friends on Facebook who will send the message.
 - When you enter a new user, what you have to insert is the Facebook name of the person who will receive the notification message.
   e.g.: Mark Zuckerberg
+- When you request the Facebook user who will send the messages, you can enter the email, id, or mobile phone number of this Facebook.
 - After the script is working if you want to re-add more users just press Ctrl + c and the question will again appear to add more user.
 - In this version if you want to change Facebook that will send the messages or delete users you have to delete the database and start all over again or edit directly in the database.
 - I am not responsible if the Facebook that sends the messages take a block by initiating too many conversations simultaneously.
